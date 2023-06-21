@@ -1,3 +1,5 @@
 # Taller_Versionamiento
-Linea 1/
-esta es mi primera linea en el fork
+Mi Primera linea 01\
+Mi segunda linea\
+Mi tercera linea\
+mi cuarta linea\
